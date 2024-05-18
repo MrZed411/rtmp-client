@@ -1,0 +1,18 @@
+{
+    "streamlabsURL": "",
+    "streamlabsApiKey": "",
+    "irlScenesName": "",
+    "brbSceneName": "",
+    "bitrateStatURL": "",
+    "sources": [
+        {
+            "enabledScene": "",
+            "restreamKey": "",
+            "inputStreamSource": "",
+            "lowBitrateSource": "",
+            "bitrateThreshold": 0
+        }
+    ]
+}
+
+
